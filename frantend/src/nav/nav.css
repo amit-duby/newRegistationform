@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navlink{
+    background-color: brown;
+    color:azure;
+   
+}
+.navlink li{
+    display:inline-block;
+    margin: 5px;
+    padding: 6px;
+text-align: center;
+}
+ .nav {
+    color:darkgreen;
+    text-decoration: none;
+}
+/* .nav:hover{
+    color:chartreuse;
+
+} */
+.nav.active{
+    color: deeppink;
+}

@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navlink{
+    background-color: aqua;
+    color:antiquewhite;
+}
+.navlink li{
+    display: inline-block;
+    margin: 5px;
+    padding: 9px;
+    justify-items: flex-start;
+   
+
+}
+.nav {
+    text-decoration: none;
+    color:chocolate;
+}
+.nav.active{
+    color:black;
+}
+.css{
+    text-align:right
+}
+.invaild{
+    margin-left: 450px;
+    margin-top: -15px;
+    display: block;
+    color:red;
+}
+.table{
+    /* border: 5px solid royalblue; */
+    text-align: center;
+    margin-top: 10px;
+}
+.table ul li{
+   display: inline-block;
+  
+   border: 2px solid green;
+   padding: 10px;
+   width: 126px;
+   /* border: 2px solid red; */
+}
+.table ul li{
+ text-decoration: none;
+ margin: 0px;
+}
+.in{
+    padding: 5px;
+    width: 200px;
+    margin: 10px;
+}
+.input{
+    display: block;
+    margin: 10px;
+    padding: 6px;
+    margin-left: 200px;
+    text-align: center;
+    
+}
+.nab{
+    border: 2px solid black;
+    width: 700px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 20px;
+    background-color: azure;
+
+}
+.ank{
+    border: 2px solid black;
+    width: 700px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 20px;
+    background-color:rgb(83, 87, 86);
+}
+.navli{
+    text-align: center;
+    margin-left: 200px;
+}
+
+.button{
+    background-color: aqua;
+    width: 100px;
+    color:black;
+     margin-left: 200Px;
+     
+     padding: 6px;
+}
